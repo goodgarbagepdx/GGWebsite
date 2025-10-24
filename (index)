@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="Good Garbage was founded in December of 2011 to employ the out of work athletes and gym members of Alive MMA and CrossFit Woodstock. We believe that by taking care of our gym members and providing honest handwork for the community is not only the best business model, it is the only business model. We encourage you to come and visit our gym and drop in for one of the many different classes we have." />
+        <meta name="author" content="Good Garbage PDX, LLC" />
+        <title>Good Garbage PDX</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+        <!-- Owl Carousel -->
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="js/carousel.js"></script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-V8B0LK8EK1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-V8B0LK8EK1');
+        </script>
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="#page-top"><img id="logo" src="assets/img/gglogo.png" alt="Good Garbage logo"></a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#service-area">Service Area</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Masthead-->
+        <header class="masthead vh-100">
+            <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+                <div class="d-flex justify-content-center">
+                    <div class="text-center">
+                        <h1 class="text-white mx-auto my-0 text-uppercase">Fast and Affordable Junk Removal</h1>
+                        <h2 class="text-white-50 mx-auto mt-2 mb-5">emphasizing recycling and donation of reusable goods</h2>
+                        <a class="btn btn-primary" href="#about">Find out more</a>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- About-->
+        <section class="about-section text-center vh-100" id="about">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2 class="text-white mb-4">COMITTED TO MAKING PORTLAND A CLEAN, SUSTAINABLE, AND BEAUTIFUL PLACE FOR EVERYONE</h2>
+                        <p class="text-white-50" style="color:rgba(255, 255, 255, 0.6) !important;">
+                            Good Garbage was founded in December of 2011 to employ the out of work athletes and gym members of Alive MMA and CrossFit Woodstock. We believe that by taking care of our gym members and providing honest handwork for the community is not only the best business model, it is the only business model. We encourage you to come and visit our gym and drop in for one of the many different classes we have.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Services -->
+        <section class="projects-section bg-light" id="services">
+            <div class="container px-4 px-lg-5">
+                <!-- Featured Services Row-->
+                <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
+                    <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0 greyscale" src="assets/img/gg-truck.jpg" alt="Good Garbage Truck" /></div>
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="featured-text text-center text-lg-left">
+                            <h4>WHAT WE DO</h4>
+                            <p class="text-black-50 mb-0"> We can haul away almost anything! Items such as miscelanieous household objects, furniture, construction and yard debris, and much, much more! Some items may require testing before we can take them such as old wooden window glassing, vynil,  linoleum, laugh and plaster, popcorn texture on drywall, and roof tar paper</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Batteries Row-->
+                <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
+                    <div class="text-center text-lg-left">
+                        <h4>ITEMS WE DO NOT ACCEPT</h4>
+                    </div>
+                    <div class="col-lg-6"><img class="img-fluid greyscale" src="assets/img/batteries.jpg" alt="Photo by Hilary Halliwell from Pexels" /></div>
+                    <div class="col-lg-6">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-left">
+                                    <h4 class="text-white">Batteries</h4>
+                                    <p class="mb-0 text-white-50">AA, AAA, D, and so on (car batteries are ok!)</p>
+                                    <hr class="d-none d-lg-block mb-0 ms-0" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Paint Row-->
+                <div class="row gx-0 justify-content-center">
+                    <div class="col-lg-6"><img class="img-fluid greyscale" src="assets/img/paint.jpg" alt="..." /></div>
+                    <div class="col-lg-6 order-lg-first">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-right">
+                                    <h4 class="text-white">Paint</h4>
+                                    <p class="mb-0 text-white-50">Primer, first coat, flat paint, eggshell, gloss, and spraypaint</p>
+                                    <hr class="d-none d-lg-block mb-0 me-0" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Light Bulbs Row -->
+                <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
+                    <div class="col-lg-6"><img class="img-fluid greyscale" src="assets/img/bulbs.jpg" alt="Photo by Joy Singh from Pexels" /></div>
+                    <div class="col-lg-6">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-left">
+                                    <h4 class="text-white">Bulbs</h4>
+                                    <p class="mb-0 text-white-50">T12, T8, T5 tube lights as well as blacklights (LEDs and other lighting systems accepted)</p>
+                                    <hr class="d-none d-lg-block mb-0 ms-0" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Household Chemicals Row -->
+                <div class="row gx-0 justify-content-center">
+                    <div class="col-lg-6"><img class="img-fluid greyscale" src="assets/img/chemicals.jpg" alt="Photo by Karolina Grabowska from Pexels" /></div>
+                    <div class="col-lg-6 order-lg-first">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-right">
+                                    <h4 class="text-white">Household Chemicals</h4>
+                                    <p class="mb-0 text-white-50">Hand sanatizer, soaps, bleach, bathroom cleaners and other household chemicals</p>
+                                    <hr class="d-none d-lg-block mb-0 me-0" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+        <!-- Testimonials -->
+        <section class="testimonial-section" id="testimonials">
+            <div class="demo">
+                <div class="container">
+                    <div class="row">
+                        <h2 class="text-white mb-4 text-center">SEE WHAT OUR CUSTOMERS SAY</h2>
+                        <div class="col-md-12">
+                            <div id="testimonial-slider" class="owl-carousel">
+                                <div class="testimonial">
+                                    <span class="icon fa fa-quote-left"></span>
+                                    <p class="description" style="margin-bottom: 50px;">
+                                        <i>Very happy with these guys! They had great follow through, they arrived when they said they would for both the initial bid and the hauling it all away. Very hard workers, just two guys hauling a lot of furniture down a flight of stairs without a single complaint. Nice guys.</i>
+                                    </p>
+                                    <div class="testimonial-content">
+                                        <div class="pic"><img src="assets/img/signe-reviewer.jpg" alt="Signe O. Reviewer Profile Picture"></div>
+                                        <h3 class="title">Signe O.</h3>
+                                        <span class="post">Customer</span>
+                                    </div>
+                                </div>
+                                <div class="testimonial">
+                                    <span class="icon fa fa-quote-left"></span>
+                                    <p class="description">
+                                        <i>These guys were fantastic.  They were able to fit me in same day, were very friendly, great communication, came on time, and hauled out our old bed (frame, boxspring, mattress) at a really great price.<br><br>
+                                        Getting rid of big stuff is a hassle and these guys make it hassle free!</i>
+                                    </p>
+                                    <div class="testimonial-content">
+                                        <div class="pic"><img src="assets/img/laura-reviewer.jpg" alt="Laura M. Reviewer Profile Picture"></div>
+                                        <h3 class="title">Laura M.</h3>
+                                        <span class="post">Customer</span>
+                                    </div>
+                                </div>
+                                <div class="testimonial">
+                                    <span class="icon fa fa-quote-left"></span>
+                                    <p class="description" style="margin-bottom: 75px;">
+                                        <i>Definitely recommend Good Garbage for junk removal!  Super responsive and easy to work with. They also offer a discount for return customers. Overall 5/5 stars and would add more if we could. Thanks Good Garbage!</i>
+                                    </p>
+                                    <div class="testimonial-content">
+                                        <div class="pic"><img src="assets/img/tyler-customer.jpg" alt="Tyler C. Reviewer Profile Picture"></div>
+                                        <h3 class="title">Tyler C.</h3>
+                                        <span class="post">Customer</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ZIP code checker -->
+        <section class="signup-section" id="service-area">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5">
+                    <div class="col-md-10 col-lg-8 mx-auto text-center">
+                        <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
+                        <h2 class="text-white mb-5">Before you contact us, you might want to check if we service your area</h2>
+                        <form class="form-signup" id="contactForm">
+                            <!-- Zip input-->
+                            <div class="row input-group-newsletter">
+                                <div class="col"><input class="form-control" id="zip" type="text" inputmode="numeric" placeholder="Enter ZIP code..." aria-label="Enter ZIP code..." data-sb-validations="required,zip" /></div>
+                                <div class="col-auto"><button class="btn btn-primary" id="submitButton" type="button">Check</button></div>
+                            </div>
+                            <!-- Submit success message-->
+                            <!---->
+                            <!-- This is what your users will see when the form-->
+                            <!-- has successfully submitted-->
+                            <div class="d-none" id="submitSuccessMessage">
+                                <div class="text-center mb-3 mt-2 text-white">
+                                    <div class="fw-bolder">We service your area!</div>
+                                </div>
+                            </div>
+                            <!-- Submit error message-->
+                            <!---->
+                            <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3 mt-2">We do not currently service your area</div></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Contact-->
+        <section class="contact-section bg-black" id="contact">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-map-marked-alt text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Address</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small text-black-50"><a target="_blank" href="https://goo.gl/maps/oXQKMDqnvBAUuTQn6">5607 SE Woodstock Blvd, Portland, OR</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-envelope text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Email</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small text-black-50"><a href="/cdn-cgi/l/email-protection#d6b1b9b9b2b1b7a4b4b7b1b3bfb8b0b996b1bbb7bfbaf8b5b9bb"><span class="__cf_email__" data-cfemail="7710181813101605151610121e19111837101a161e1b5914181a">[email&#160;protected]</span></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-mobile-alt text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Phone</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small text-black-50"><a href="tel:5033337590">+1 (503) 333-7590</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="social d-flex justify-content-center">
+                    <a class="mx-2" target="_blank" href="https://twitter.com/goodgarbagepdx"><i class="fab fa-twitter"></i></a>
+                    <a class="mx-2" target="_blank" href="https://www.facebook.com/goodgarbagepdx"><i class="fab fa-facebook-f"></i></a>
+                    <a class="mx-2" target="_blank" href="https://www.youtube.com/watch?v=RaQleg79pPw"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="footer bg-black small text-center text-white-50"><div class="container px-4 px-lg-5"><a target="_blank" href="privacy.html">Privacy Policy</a> &middot; &copy; Good Garbage, LLC</div></footer>
+        <!-- Bootstrap core JS-->
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS--> 
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
